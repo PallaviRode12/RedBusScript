@@ -1,4 +1,3 @@
-# RedBusScript
 # From Missed Opportunity to Meaningful Growth 📚🐱‍🏍
 
 In a recent interview, I was asked to write an automation script for the RedBus website. I wasn’t able to complete it at the time, and I realized I needed to improve in that area.
